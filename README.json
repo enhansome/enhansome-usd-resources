@@ -1,0 +1,572 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gltf2usd",
+          "description": "Convert gltf 2.0 files to USD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T22:41:49Z",
+            "owner": "kcoley",
+            "repo": "gltf2usd",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ptc2usd",
+          "description": "Pixar PTC and Houdini JSON point cloud to USD converter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-04T06:41:58Z",
+            "owner": "virokannas",
+            "repo": "ptc2usd",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "holopointer",
+          "description": "Record from a Kinect USB device to USD (MacOS/Swift)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-06T03:25:05Z",
+            "owner": "virokannas",
+            "repo": "holopointer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gaffer",
+          "description": "USD is available for SceneReader node and SceneWriter node from v0.42.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:57:35Z",
+            "owner": "GafferHQ",
+            "repo": "gaffer",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maya",
+          "description": "Autodesk Maya plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Wolfram Language",
+            "last_commit": "2026-08-12T16:24:26Z",
+            "owner": "Autodesk",
+            "repo": "maya-usd",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity USD SDK",
+          "description": "Full C# bindings to the USD SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-25T12:56:02Z",
+            "owner": "Unity-Technologies",
+            "repo": "usd-unity-sdk",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USD for Unity",
+          "description": "USD and Alembic importer/exporter plugin for Unity",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-04-11T09:37:55Z",
+            "owner": "unity3d-jp",
+            "repo": "USDForUnity",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AL_USDMaya",
+          "description": "Animal Logic's plugin (now unified with the Autodesk Maya plugin)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-04T04:58:17Z",
+            "owner": "AnimalLogic",
+            "repo": "AL_USDMaya",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AL_USDMaya",
+          "description": "Animal Logic's Asset Resolution system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-04T04:58:17Z",
+            "owner": "AnimalLogic",
+            "repo": "AL_USDMaya",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWalter",
+          "description": "Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-04-13T15:08:27Z",
+            "owner": "rodeofx",
+            "repo": "OpenWalter",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USD Qt",
+          "description": "Luma Pictures has created some reusable Qt widgets to work with USD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T01:23:08Z",
+            "owner": "LumaPictures",
+            "repo": "usd-qt",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3ds Max",
+          "description": "Autodesk 3ds Max plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T15:22:03Z",
+            "owner": "Autodesk",
+            "repo": "3dsmax-usd",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arnold",
+          "description": "Luma Pictures USD bridge for Arnold",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-09-22T16:23:44Z",
+            "owner": "LumaPictures",
+            "repo": "usd-arnold",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SketchUp",
+          "description": "Dr. Wave's USD Sketchup plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-08-12T22:20:47Z",
+            "owner": "drwave",
+            "repo": "usd-sketchup",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UsdVol for Katana",
+          "description": "UsdVol to Renderman bridge for Katana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2025-03-10T03:41:56Z",
+            "owner": "UTS-AnimalLogicAcademy",
+            "repo": "usd-renderman",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal",
+          "description": "Unreal 4.18 includes a USD importer",
+          "children": []
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AMD ProRender",
+          "description": "AMD ProRender raytracing Hydra delegate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-05T05:56:03Z",
+            "owner": "GPUOpen-LibrariesAndSDKs",
+            "repo": "RadeonProRenderUSD",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel hdOSPRay",
+          "description": "Hydra + Intel's Open-Source OSPRay interactive path tracer",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-08-25T19:28:39Z",
+            "owner": "ospray",
+            "repo": "hdospray",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydra Houdini",
+          "description": "Dreamworks' Hydra plugin for Houdini",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-17T17:14:16Z",
+            "owner": "dreamworksanimation",
+            "repo": "dwa_usd_plugins",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USD-tests",
+          "description": "Examples for learning USD and Hydra APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-09-10T17:39:22Z",
+            "owner": "dboogert",
+            "repo": "USD-tests",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tutorials",
+          "description": "Tutorials on using Hydra as a stand-alone render system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-21T06:03:33Z",
+            "owner": "dboogert",
+            "repo": "USD",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Switch",
+          "description": "Victor Yudin has built a game using Hydra as the render engine",
+          "children": []
+        }
+      ],
+      "title": "Hydra"
+    },
+    {
+      "description": "There are a variety of strategies for building USD.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official USD repo",
+          "description": "The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T19:25:43Z",
+            "owner": "PixarAnimationStudios",
+            "repo": "OpenUSD",
+            "stars": 7439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USD Build Club",
+          "description": "This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-27T20:03:43Z",
+            "owner": "vfxpro99",
+            "repo": "usd-build-club",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubuntu scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-05-24T21:39:53Z",
+            "owner": "tlorach",
+            "repo": "USD_build",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rez",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2021-02-07T17:24:27Z",
+            "owner": "piratecrew",
+            "repo": "rez-usd",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RodeoFX's dependency builds",
+          "description": "Includes tarred sources for USD dependencies at vfxplatform point revisions.",
+          "children": []
+        }
+      ],
+      "title": "Building"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Saturn",
+          "description": "Windows build recipes, and AppVeyor build of binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2020-05-21T00:27:57Z",
+            "owner": "VictorYudin",
+            "repo": "saturn",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Container",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-01T05:08:20Z",
+            "owner": "AnimalLogic",
+            "repo": "docker-usd",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Distros"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyCharm Plug-in",
+          "description": "(.usda)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-28T05:55:05Z",
+            "owner": "justint",
+            "repo": "usd-idea",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[JetBrains] (https://github.com/justint/usd-idea",
+          "description": ") A plugin for JetBrains IDEs; PyCharm, IntelliJ, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-28T05:55:05Z",
+            "owner": "justint",
+            "repo": "usd-idea",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal Logic VSCode Highlighting",
+          "description": "(.usd, .usda, .usdc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-15T11:05:16Z",
+            "owner": "AnimalLogic",
+            "repo": "AL_usd_vscode_extension",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntax Highlighting",
+          "description": "for vim, emacs & sublime (.usda)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2018-09-17T22:30:49Z",
+            "owner": "superfunc",
+            "repo": "usda-syntax",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad++ Highlighter",
+          "description": "(.usda)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-28T12:18:41Z",
+            "owner": "Lightfielder",
+            "repo": "PIXAR-USD-Syntax-Highlighter",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Syntax Highlighter",
+          "description": "(.usd, .usda)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-14T20:43:27Z",
+            "owner": "davidlatwe",
+            "repo": "PixarUSD-Sublime",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Syntax Highlighters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RodeoFX resolver",
+          "description": "RodeoFX's Replace Resolver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-03T01:25:21Z",
+            "owner": "rodeofx",
+            "repo": "rdo_replace_resolver",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URI resolver",
+          "description": "by Luma Pictures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2023-08-24T22:18:01Z",
+            "owner": "LumaPictures",
+            "repo": "usd-uri-resolver",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3 URI resolver",
+          "description": "Western Digital's S3 asset store resolver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-26T09:16:20Z",
+            "owner": "westerndigitalcorporation",
+            "repo": "usd-s3-resolver",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Resolvers"
+    },
+    {
+      "description": "Contributions are welcome - see thecontribution guidelines",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:44.100Z",
+    "original_repository": "vfxpro99/usd-resources",
+    "original_repository_sha": "a349b04b5a4a12384e9df9a12600dd1f7a1a4d60",
+    "enhanced_repository": "enhansome/enhansome-usd-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome USD Projects and Resources with stars"
+  }
+}
