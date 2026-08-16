@@ -50,7 +50,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,085 | 🐛 366 | 🌐 Python | 📅 2026-08-15 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,084 | 🐛 366 | 🌐 Python | 📅 2026-08-15 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
 * [Maya](https://github.com/Autodesk/maya-usd) ⭐ 898 | 🐛 329 | 🌐 Wolfram Language | 📅 2026-08-13 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
