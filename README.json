@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Wolfram Language",
-            "last_commit": "2026-08-13T20:18:29Z",
+            "last_commit": "2026-08-18T00:54:14Z",
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 898
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:38:33.469Z",
+    "last_updated": "2026-08-18T14:46:12.141Z",
     "original_repository": "vfxpro99/usd-resources",
     "original_repository_sha": "a349b04b5a4a12384e9df9a12600dd1f7a1a4d60",
     "enhanced_repository": "enhansome/enhansome-usd-resources",
