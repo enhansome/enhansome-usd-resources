@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144440964,
             "language": "Python",
             "last_commit": "2023-10-03T22:41:49Z",
             "owner": "kcoley",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285149788,
             "language": "Python",
             "last_commit": "2021-01-04T06:41:58Z",
             "owner": "virokannas",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325871931,
             "language": "C",
             "last_commit": "2021-01-06T03:25:05Z",
             "owner": "virokannas",
@@ -49,7 +52,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9043124,
             "language": "Python",
-            "last_commit": "2026-08-15T03:01:29Z",
+            "last_commit": "2026-08-19T01:13:11Z",
             "owner": "GafferHQ",
             "repo": "gaffer",
-            "stars": 1084
+            "stars": 1086
           }
         },
         {
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198889624,
             "language": "Wolfram Language",
-            "last_commit": "2026-08-18T00:54:14Z",
+            "last_commit": "2026-08-18T20:37:30Z",
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 898
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110500457,
             "language": "C#",
             "last_commit": "2024-11-25T12:56:02Z",
             "owner": "Unity-Technologies",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59046151,
             "language": "C++",
             "last_commit": "2018-04-11T09:37:55Z",
             "owner": "unity3d-jp",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98379116,
             "language": "C++",
             "last_commit": "2019-11-04T04:58:17Z",
             "owner": "AnimalLogic",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98379116,
             "language": "C++",
             "last_commit": "2019-11-04T04:58:17Z",
             "owner": "AnimalLogic",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142481128,
             "language": "C++",
             "last_commit": "2019-04-13T15:08:27Z",
             "owner": "rodeofx",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98695029,
             "language": "Python",
             "last_commit": "2023-10-10T01:23:08Z",
             "owner": "LumaPictures",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715774366,
             "language": "C++",
             "last_commit": "2026-07-24T15:22:03Z",
             "owner": "Autodesk",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98695067,
             "language": "C++",
             "last_commit": "2020-09-22T16:23:44Z",
             "owner": "LumaPictures",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146032259,
             "language": "C++",
             "last_commit": "2019-08-12T22:20:47Z",
             "owner": "drwave",
@@ -212,24 +226,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187562951,
             "language": "CMake",
             "last_commit": "2025-03-10T03:41:56Z",
             "owner": "UTS-AnimalLogicAcademy",
             "repo": "usd-renderman",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Unreal",
-          "description": "Unreal 4.18 includes a USD importer",
-          "children": []
         }
       ],
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144385190,
             "language": "C++",
             "last_commit": "2025-08-05T05:56:03Z",
             "owner": "GPUOpen-LibrariesAndSDKs",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 171917221,
             "language": "C++",
             "last_commit": "2025-08-25T19:28:39Z",
             "owner": "ospray",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194136176,
             "language": "Python",
             "last_commit": "2020-11-17T17:14:16Z",
             "owner": "dreamworksanimation",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102987165,
             "language": "C++",
             "last_commit": "2017-09-10T17:39:22Z",
             "owner": "dboogert",
@@ -294,18 +307,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102398487,
             "language": "C++",
             "last_commit": "2018-07-21T06:03:33Z",
             "owner": "dboogert",
             "repo": "USD",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Switch",
-          "description": "Victor Yudin has built a game using Hydra as the render engine",
-          "children": []
         }
       ],
       "title": "Hydra"
@@ -320,11 +328,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58168143,
             "language": "C++",
             "last_commit": "2026-08-06T19:25:43Z",
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7448
+            "stars": 7449
           }
         },
         {
@@ -334,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64728943,
             "language": "Shell",
             "last_commit": "2020-05-27T20:03:43Z",
             "owner": "vfxpro99",
@@ -348,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111813,
             "language": "Shell",
             "last_commit": "2017-05-24T21:39:53Z",
             "owner": "tlorach",
@@ -362,24 +373,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64833001,
             "language": "CMake",
             "last_commit": "2021-02-07T17:24:27Z",
             "owner": "piratecrew",
             "repo": "rez-usd",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "RodeoFX's dependency builds",
-          "description": "Includes tarred sources for USD dependencies at vfxplatform point revisions.",
-          "children": []
         }
       ],
       "title": "Building"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -388,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110443440,
             "language": "Makefile",
             "last_commit": "2020-05-21T00:27:57Z",
             "owner": "VictorYudin",
@@ -402,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76427344,
             "language": "Shell",
             "last_commit": "2021-04-01T05:08:20Z",
             "owner": "AnimalLogic",
@@ -413,7 +421,7 @@
       "title": "Distros"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -422,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180519933,
             "language": "Java",
             "last_commit": "2023-07-28T05:55:05Z",
             "owner": "justint",
@@ -436,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180519933,
             "language": "Java",
             "last_commit": "2023-07-28T05:55:05Z",
             "owner": "justint",
@@ -450,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133774668,
             "language": "JavaScript",
             "last_commit": "2023-11-15T11:05:16Z",
             "owner": "AnimalLogic",
@@ -464,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112827157,
             "language": "Emacs Lisp",
             "last_commit": "2018-09-17T22:30:49Z",
             "owner": "superfunc",
@@ -478,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15171656,
             "language": "PHP",
             "last_commit": "2022-10-28T12:18:41Z",
             "owner": "Lightfielder",
@@ -492,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106954976,
             "language": null,
             "last_commit": "2017-10-14T20:43:27Z",
             "owner": "davidlatwe",
@@ -503,7 +517,7 @@
       "title": "Syntax Highlighters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -512,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180387631,
             "language": "C++",
             "last_commit": "2019-05-03T01:25:21Z",
             "owner": "rodeofx",
@@ -526,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98695125,
             "language": "CMake",
             "last_commit": "2023-08-24T22:18:01Z",
             "owner": "LumaPictures",
@@ -540,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156896362,
             "language": "C++",
             "last_commit": "2018-11-26T09:16:20Z",
             "owner": "westerndigitalcorporation",
@@ -549,21 +566,12 @@
         }
       ],
       "title": "Resolvers"
-    },
-    {
-      "description": "Contributions are welcome - see thecontribution guidelines",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:46:12.141Z",
+    "last_updated": "2026-08-19T12:59:44.471Z",
     "original_repository": "vfxpro99/usd-resources",
+    "original_repository_id": 115083614,
     "original_repository_sha": "a349b04b5a4a12384e9df9a12600dd1f7a1a4d60",
     "enhanced_repository": "enhansome/enhansome-usd-resources",
     "enhanced_repository_description": null,
