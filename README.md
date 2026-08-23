@@ -36,7 +36,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 * [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
 * [USD at UTS Animal Logic Academy](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 * \[<https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html>] USD's preview material
-* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 691 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
+* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 690 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
 * [Dreamworks USD Integration](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
 * [Luma USD Integration](https://beforesandafters.com/2020/05/25/how-does-usd-actually-get-used-at-a-vfx-studio/) Brief notes on Luma's pipeline
 
@@ -50,7 +50,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,087 | 🐛 368 | 🌐 Python | 📅 2026-08-22 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,088 | 🐛 368 | 🌐 Python | 📅 2026-08-23 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
 * [Maya](https://github.com/Autodesk/maya-usd) ⭐ 899 | 🐛 334 | 🌐 Wolfram Language | 📅 2026-08-21 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
