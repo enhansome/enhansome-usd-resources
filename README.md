@@ -17,10 +17,10 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## USDZ
 
+* [UsdSkel](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2019-01-22 for Apple's ArKit
 * [Apple's Reality Composer](https://developer.apple.com/documentation/realitykit/creating_3d_content_with_reality_composer/exporting_a_reality_composer_scene_to_usdz) exports scenes to USDZ
 * [Sketchfab](https://sketchfab.com/blogs/community/sketchfab-adds-usdz-3d-file-conversion) has nearly a half million USDZ files available for download
 * [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
-* [UsdSkel](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2019-01-22 for Apple's ArKit
 * [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
 * [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
 * [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
@@ -28,6 +28,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Reference
 
+* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 690 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
 * [openusd.org](http://openusd.org) The official website
 * [USD Interest Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 * [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
@@ -36,7 +37,6 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 * [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
 * [USD at UTS Animal Logic Academy](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 * \[<https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html>] USD's preview material
-* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 690 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
 * [Dreamworks USD Integration](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
 * [Luma USD Integration](https://beforesandafters.com/2020/05/25/how-does-usd-actually-get-used-at-a-vfx-studio/) Brief notes on Luma's pipeline
 
@@ -50,15 +50,15 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,088 | 🐛 368 | 🌐 Python | 📅 2026-08-23 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 899 | 🐛 334 | 🌐 Wolfram Language | 📅 2026-08-21 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,088 | 🐛 369 | 🌐 Python | 📅 2026-08-24 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 899 | 🐛 337 | 🌐 Wolfram Language | 📅 2026-08-24 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya/wiki/Asset-Resolution-and-Version-Selection-at-Animal-Logic) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's Asset Resolution system
 * [OpenWalter](https://github.com/rodeofx/OpenWalter) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2019-04-13 Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 * [USD Qt](https://github.com/LumaPictures/usd-qt) ⭐ 171 | 🐛 5 | 🌐 Python | 📅 2023-10-10 Luma Pictures has created some reusable Qt widgets to work with USD
-* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 92 | 🐛 12 | 🌐 C++ | 📅 2026-07-24 Autodesk 3ds Max plugin
+* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 93 | 🐛 12 | 🌐 C++ | 📅 2026-07-24 Autodesk 3ds Max plugin
 * [Arnold](https://github.com/LumaPictures/usd-arnold) ⭐ 68 | 🐛 7 | 🌐 C++ | 📅 2020-09-22 Luma Pictures USD bridge for Arnold
 * [SketchUp](https://github.com/drwave/usd-sketchup) ⭐ 66 | 🐛 13 | 🌐 C++ | 📅 2019-08-12 Dr. Wave's USD Sketchup plugin
 * [UsdVol for Katana](https://github.com/UTS-AnimalLogicAcademy/usd-renderman) ⭐ 11 | 🐛 1 | 🌐 CMake | 📅 2025-03-10 UsdVol to Renderman bridge for Katana
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,453 | 🐛 1,009 | 🌐 C++ | 📅 2026-08-20 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,455 | 🐛 1,010 | 🌐 C++ | 📅 2026-08-20 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

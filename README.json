@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "UsdSkel",
+          "description": "for Apple's ArKit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163025656,
+            "language": "Python",
+            "last_commit": "2019-01-22T06:29:40Z",
+            "owner": "pkanyuk",
+            "repo": "PkUsdUtils",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "USDZ"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "USD Cookbook",
+          "description": "Colin Kennedy's USD code and asset samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189784656,
+            "language": "Mathematica",
+            "last_commit": "2024-08-17T18:16:46Z",
+            "owner": "ColinKennedy",
+            "repo": "USD-Cookbook",
+            "stars": 690
+          }
+        }
+      ],
+      "title": "Reference"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "gltf2usd",
           "description": "Convert gltf 2.0 files to USD",
           "children": [],
@@ -63,7 +105,7 @@
             "archived": false,
             "id": 9043124,
             "language": "Python",
-            "last_commit": "2026-08-23T01:18:09Z",
+            "last_commit": "2026-08-24T01:15:38Z",
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1088
@@ -78,7 +120,7 @@
             "archived": false,
             "id": 198889624,
             "language": "Wolfram Language",
-            "last_commit": "2026-08-21T19:45:12Z",
+            "last_commit": "2026-08-24T13:53:00Z",
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 899
@@ -186,7 +228,7 @@
             "last_commit": "2026-07-24T15:22:03Z",
             "owner": "Autodesk",
             "repo": "3dsmax-usd",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -333,7 +375,7 @@
             "last_commit": "2026-08-20T18:37:38Z",
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7453
+            "stars": 7455
           }
         },
         {
@@ -569,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:33:54.773Z",
+    "last_updated": "2026-08-24T14:22:56.068Z",
     "original_repository": "vfxpro99/usd-resources",
     "original_repository_id": 115083614,
     "original_repository_sha": "a349b04b5a4a12384e9df9a12600dd1f7a1a4d60",
