@@ -105,7 +105,7 @@
             "archived": false,
             "id": 9043124,
             "language": "Python",
-            "last_commit": "2026-08-24T01:15:38Z",
+            "last_commit": "2026-08-25T01:14:08Z",
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1088
@@ -120,7 +120,7 @@
             "archived": false,
             "id": 198889624,
             "language": "Wolfram Language",
-            "last_commit": "2026-08-24T14:45:48Z",
+            "last_commit": "2026-08-24T19:46:12Z",
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 899
@@ -611,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:54:19.144Z",
+    "last_updated": "2026-08-25T06:16:03.666Z",
     "original_repository": "vfxpro99/usd-resources",
     "original_repository_id": 115083614,
     "original_repository_sha": "a349b04b5a4a12384e9df9a12600dd1f7a1a4d60",
