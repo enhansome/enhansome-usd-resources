@@ -16,7 +16,8 @@
             "owner": "pkanyuk",
             "repo": "PkUsdUtils",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "USDZ"
@@ -36,8 +37,9 @@
             "last_commit": "2024-08-17T18:16:46Z",
             "owner": "ColinKennedy",
             "repo": "USD-Cookbook",
-            "stars": 690
-          }
+            "stars": 691
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Reference"
@@ -58,7 +60,8 @@
             "owner": "kcoley",
             "repo": "gltf2usd",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "virokannas",
             "repo": "ptc2usd",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "virokannas",
             "repo": "holopointer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Tools"
@@ -105,11 +110,12 @@
             "archived": false,
             "id": 9043124,
             "language": "Python",
-            "last_commit": "2026-08-27T21:33:34Z",
+            "last_commit": "2026-08-28T23:22:08Z",
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1089
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "Unity-Technologies",
             "repo": "usd-unity-sdk",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "unity3d-jp",
             "repo": "USDForUnity",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "AnimalLogic",
             "repo": "AL_USDMaya",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "AnimalLogic",
             "repo": "AL_USDMaya",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "rodeofx",
             "repo": "OpenWalter",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "LumaPictures",
             "repo": "usd-qt",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "Autodesk",
             "repo": "3dsmax-usd",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "LumaPictures",
             "repo": "usd-arnold",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "drwave",
             "repo": "usd-sketchup",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "UTS-AnimalLogicAcademy",
             "repo": "usd-renderman",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Integrations"
@@ -295,7 +312,8 @@
             "owner": "GPUOpen-LibrariesAndSDKs",
             "repo": "RadeonProRenderUSD",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "ospray",
             "repo": "hdospray",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "dreamworksanimation",
             "repo": "dwa_usd_plugins",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "dboogert",
             "repo": "USD-tests",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "dboogert",
             "repo": "USD",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Hydra"
@@ -375,8 +397,9 @@
             "last_commit": "2026-08-27T17:50:32Z",
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7456
-          }
+            "stars": 7460
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "vfxpro99",
             "repo": "usd-build-club",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "tlorach",
             "repo": "USD_build",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "piratecrew",
             "repo": "rez-usd",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Building"
@@ -442,7 +468,8 @@
             "owner": "VictorYudin",
             "repo": "saturn",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -457,7 +484,8 @@
             "owner": "AnimalLogic",
             "repo": "docker-usd",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Distros"
@@ -478,7 +506,8 @@
             "owner": "justint",
             "repo": "usd-idea",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -493,7 +522,8 @@
             "owner": "justint",
             "repo": "usd-idea",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -508,7 +538,8 @@
             "owner": "AnimalLogic",
             "repo": "AL_usd_vscode_extension",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -523,7 +554,8 @@
             "owner": "superfunc",
             "repo": "usda-syntax",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -538,7 +570,8 @@
             "owner": "Lightfielder",
             "repo": "PIXAR-USD-Syntax-Highlighter",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -553,7 +586,8 @@
             "owner": "davidlatwe",
             "repo": "PixarUSD-Sublime",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Syntax Highlighters"
@@ -574,7 +608,8 @@
             "owner": "rodeofx",
             "repo": "rdo_replace_resolver",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -589,7 +624,8 @@
             "owner": "LumaPictures",
             "repo": "usd-uri-resolver",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         },
         {
           "node_type": "item",
@@ -604,14 +640,15 @@
             "owner": "westerndigitalcorporation",
             "repo": "usd-s3-resolver",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:31:25.293Z"
         }
       ],
       "title": "Resolvers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:45:19.385Z",
+    "last_updated": "2026-08-28T23:31:25.293Z",
     "original_repository_info": {
       "archived": false,
       "id": 115083614,
