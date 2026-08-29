@@ -50,7 +50,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,089 | 🐛 361 | 🌐 Python | 📅 2026-08-28 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,089 | 🐛 361 | 🌐 Python | 📅 2026-08-29 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
 * [Maya](https://github.com/Autodesk/maya-usd) ⭐ 900 | 🐛 333 | 🌐 Wolfram Language | 📅 2026-08-27 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,460 | 🐛 1,004 | 🌐 C++ | 📅 2026-08-27 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,461 | 🐛 1,004 | 🌐 C++ | 📅 2026-08-27 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
