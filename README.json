@@ -176,8 +176,8 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-08-27T17:12:08Z",
-            "open_issues": 333,
+            "last_commit": "2026-08-31T19:23:11Z",
+            "open_issues": 332,
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 900,
@@ -344,8 +344,8 @@
             "id": 715774366,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-07-24T15:22:03Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-31T16:58:45Z",
+            "open_issues": 14,
             "owner": "Autodesk",
             "repo": "3dsmax-usd",
             "stars": 94,
@@ -563,7 +563,7 @@
             "open_issues": 1004,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7461,
+            "stars": 7464,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:41.267Z",
+    "last_updated": "2026-08-31T19:58:15.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
