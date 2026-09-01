@@ -345,7 +345,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-08-31T16:58:45Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Autodesk",
             "repo": "3dsmax-usd",
             "stars": 94,
@@ -560,10 +560,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T17:50:32Z",
-            "open_issues": 1004,
+            "open_issues": 1005,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7464,
+            "stars": 7465,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:58:15.966Z",
+    "last_updated": "2026-09-01T17:47:34.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
