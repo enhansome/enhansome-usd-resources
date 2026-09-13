@@ -563,7 +563,7 @@
             "open_issues": 1005,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7487,
+            "stars": 7488,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:01:29.729Z",
+    "last_updated": "2026-09-13T17:22:45.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
