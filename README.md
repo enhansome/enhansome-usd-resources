@@ -50,8 +50,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,092 | 🐛 364 | 🌐 Python | 📅 2026-09-14 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 905 | 🐛 337 | 🌐 Wolfram Language | 📅 2026-09-14 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,093 | 🐛 363 | 🌐 Python | 📅 2026-09-15 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 905 | 🐛 339 | 🌐 Wolfram Language | 📅 2026-09-15 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,489 | 🐛 1,005 | 🌐 C++ | 📅 2026-09-08 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,491 | 🐛 1,003 | 🌐 C++ | 📅 2026-09-14 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -126,7 +126,7 @@ There are a variety of strategies for building USD.
 ## Resolvers
 
 * [RodeoFX resolver](https://github.com/rodeofx/rdo_replace_resolver) ⭐ 68 | 🐛 3 | 🌐 C++ | 📅 2019-05-03 RodeoFX's Replace Resolver
-* [URI resolver](https://github.com/LumaPictures/usd-uri-resolver) ⭐ 51 | 🐛 7 | 🌐 CMake | 📅 2023-08-24 by Luma Pictures
+* [URI resolver](https://github.com/LumaPictures/usd-uri-resolver) ⭐ 52 | 🐛 7 | 🌐 CMake | 📅 2023-08-24 by Luma Pictures
 * [S3 URI resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2018-11-26 Western Digital's S3 asset store resolver
 
 ## Contribute
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
