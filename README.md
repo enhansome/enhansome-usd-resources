@@ -50,8 +50,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,094 | 🐛 363 | 🌐 Python | 📅 2026-09-18 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 905 | 🐛 340 | 🌐 Wolfram Language | 📅 2026-09-18 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,096 | 🐛 363 | 🌐 Python | 📅 2026-09-19 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 906 | 🐛 341 | 🌐 Wolfram Language | 📅 2026-09-18 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 524 | 🐛 48 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
@@ -86,7 +86,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 * [Intel hdOSPRay](https://github.com/ospray/hdospray) ⚠️ Archived Hydra + Intel's Open-Source OSPRay interactive path tracer
 * [Hydra Houdini](https://github.com/dreamworksanimation/dwa_usd_plugins) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2020-11-17 Dreamworks' Hydra plugin for Houdini
 * [USD-tests](https://github.com/dboogert/USD-tests) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2017-09-10 Examples for learning USD and Hydra APIs
-* [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2018-07-21 Tutorials on using Hydra as a stand-alone render system
+* [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) ⭐ 21 | 🐛 0 | 🌐 C++ | 📅 2018-07-21 Tutorials on using Hydra as a stand-alone render system
 * [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
 * [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
 * [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,496 | 🐛 1,002 | 🌐 C++ | 📅 2026-09-17 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,497 | 🐛 997 | 🌐 C++ | 📅 2026-09-18 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
