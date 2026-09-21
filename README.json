@@ -46,7 +46,7 @@
             "open_issues": 3,
             "owner": "ColinKennedy",
             "repo": "USD-Cookbook",
-            "stars": 691,
+            "stars": 692,
             "topics": [
               "cpp",
               "python",
@@ -155,8 +155,8 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T03:42:13Z",
-            "open_issues": 363,
+            "last_commit": "2026-09-20T18:44:49Z",
+            "open_issues": 364,
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1097,
@@ -176,8 +176,8 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-09-18T20:38:02Z",
-            "open_issues": 341,
+            "last_commit": "2026-09-21T18:59:42Z",
+            "open_issues": 338,
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 906,
@@ -201,7 +201,7 @@
             "open_issues": 48,
             "owner": "Unity-Technologies",
             "repo": "usd-unity-sdk",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -560,10 +560,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T20:49:02Z",
-            "open_issues": 998,
+            "open_issues": 999,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7498,
+            "stars": 7499,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:25:08.810Z",
+    "last_updated": "2026-09-21T19:19:36.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
