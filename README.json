@@ -176,11 +176,11 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-10-09T19:57:24Z",
-            "open_issues": 345,
+            "last_commit": "2026-10-13T19:01:43Z",
+            "open_issues": 346,
             "owner": "Autodesk",
             "repo": "maya-usd",
-            "stars": 910,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -559,11 +559,11 @@
             "id": 58168143,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T15:55:43Z",
-            "open_issues": 1008,
+            "last_commit": "2026-10-13T17:06:13Z",
+            "open_issues": 999,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7527,
+            "stars": 7532,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:05:05.046Z",
+    "last_updated": "2026-10-13T20:12:20.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
