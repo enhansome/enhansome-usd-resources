@@ -155,8 +155,8 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T03:31:22Z",
-            "open_issues": 368,
+            "last_commit": "2026-10-25T05:37:04Z",
+            "open_issues": 369,
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1104,
@@ -563,7 +563,7 @@
             "open_issues": 992,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7564,
+            "stars": 7569,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:22:39.000Z",
+    "last_updated": "2026-10-25T17:36:43.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
