@@ -50,8 +50,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,104 | 🐛 369 | 🌐 Python | 📅 2026-10-25 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 914 | 🐛 344 | 🌐 Wolfram Language | 📅 2026-10-23 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,105 | 🐛 368 | 🌐 Python | 📅 2026-10-26 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 914 | 🐛 347 | 🌐 Wolfram Language | 📅 2026-10-26 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 526 | 🐛 49 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,569 | 🐛 992 | 🌐 C++ | 📅 2026-10-23 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,584 | 🐛 993 | 🌐 C++ | 📅 2026-10-23 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -120,7 +120,7 @@ There are a variety of strategies for building USD.
 * [Animal Logic VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-15 (.usd, .usda, .usdc)
 * [Syntax Highlighting](https://github.com/superfunc/usda-syntax) ⭐ 27 | 🐛 1 | 🌐 Emacs Lisp | 📅 2018-09-17 for vim, emacs & sublime (.usda)
 * [Notepad++ Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) ⭐ 11 | 🐛 1 | 🌐 PHP | 📅 2022-10-28 (.usda)
-* [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) ⭐ 8 | 🐛 0 | 📅 2017-10-14 (.usd, .usda)
+* [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) ⭐ 8 | 🐛 1 | 📅 2017-10-14 (.usd, .usda)
 * [Animal Logic VSCode Highlighting at VS Marketplace](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax)
 
 ## Resolvers
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
