@@ -46,7 +46,7 @@
             "open_issues": 3,
             "owner": "ColinKennedy",
             "repo": "USD-Cookbook",
-            "stars": 693,
+            "stars": 694,
             "topics": [
               "cpp",
               "python",
@@ -155,11 +155,11 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T17:51:08Z",
-            "open_issues": 370,
+            "last_commit": "2026-10-28T18:06:31Z",
+            "open_issues": 373,
             "owner": "GafferHQ",
             "repo": "gaffer",
-            "stars": 1107,
+            "stars": 1108,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -176,11 +176,11 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-10-27T16:43:30Z",
-            "open_issues": 347,
+            "last_commit": "2026-10-28T19:10:32Z",
+            "open_issues": 346,
             "owner": "Autodesk",
             "repo": "maya-usd",
-            "stars": 914,
+            "stars": 915,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -327,7 +327,7 @@
             "open_issues": 5,
             "owner": "LumaPictures",
             "repo": "usd-qt",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -563,7 +563,7 @@
             "open_issues": 994,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7593,
+            "stars": 7594,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:23:16.356Z",
+    "last_updated": "2026-10-28T19:28:29.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
