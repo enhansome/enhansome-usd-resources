@@ -50,15 +50,15 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,110 | 🐛 373 | 🌐 Python | 📅 2026-11-01 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 916 | 🐛 350 | 🌐 Wolfram Language | 📅 2026-10-30 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,112 | 🐛 374 | 🌐 Python | 📅 2026-11-02 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 916 | 🐛 351 | 🌐 Wolfram Language | 📅 2026-11-02 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 526 | 🐛 49 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya/wiki/Asset-Resolution-and-Version-Selection-at-Animal-Logic) ⭐ 267 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's Asset Resolution system
 * [OpenWalter](https://github.com/rodeofx/OpenWalter) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2019-04-13 Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 * [USD Qt](https://github.com/LumaPictures/usd-qt) ⭐ 172 | 🐛 5 | 🌐 Python | 📅 2023-10-10 Luma Pictures has created some reusable Qt widgets to work with USD
-* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 96 | 🐛 9 | 🌐 C++ | 📅 2026-10-27 Autodesk 3ds Max plugin
+* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 97 | 🐛 9 | 🌐 C++ | 📅 2026-10-27 Autodesk 3ds Max plugin
 * [Arnold](https://github.com/LumaPictures/usd-arnold) ⭐ 68 | 🐛 7 | 🌐 C++ | 📅 2020-09-22 Luma Pictures USD bridge for Arnold
 * [SketchUp](https://github.com/drwave/usd-sketchup) ⭐ 66 | 🐛 13 | 🌐 C++ | 📅 2019-08-12 Dr. Wave's USD Sketchup plugin
 * [UsdVol for Katana](https://github.com/UTS-AnimalLogicAcademy/usd-renderman) ⭐ 11 | 🐛 1 | 🌐 CMake | 📅 2025-03-10 UsdVol to Renderman bridge for Katana
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,607 | 🐛 998 | 🌐 C++ | 📅 2026-10-30 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,611 | 🐛 998 | 🌐 C++ | 📅 2026-10-30 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -120,7 +120,7 @@ There are a variety of strategies for building USD.
 * [Animal Logic VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-15 (.usd, .usda, .usdc)
 * [Syntax Highlighting](https://github.com/superfunc/usda-syntax) ⭐ 27 | 🐛 1 | 🌐 Emacs Lisp | 📅 2018-09-17 for vim, emacs & sublime (.usda)
 * [Notepad++ Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) ⭐ 11 | 🐛 1 | 🌐 PHP | 📅 2022-10-28 (.usda)
-* [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) ⭐ 8 | 🐛 2 | 📅 2017-10-14 (.usd, .usda)
+* [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) ⭐ 8 | 🐛 0 | 📅 2026-11-02 (.usd, .usda)
 * [Animal Logic VSCode Highlighting at VS Marketplace](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax)
 
 ## Resolvers
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

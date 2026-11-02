@@ -155,11 +155,11 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T09:12:17Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-02T18:23:56Z",
+            "open_issues": 374,
             "owner": "GafferHQ",
             "repo": "gaffer",
-            "stars": 1110,
+            "stars": 1112,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -176,8 +176,8 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-10-30T19:54:13Z",
-            "open_issues": 350,
+            "last_commit": "2026-11-02T11:41:48Z",
+            "open_issues": 351,
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 916,
@@ -348,7 +348,7 @@
             "open_issues": 9,
             "owner": "Autodesk",
             "repo": "3dsmax-usd",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "3ds-max",
               "source",
@@ -563,7 +563,7 @@
             "open_issues": 998,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7607,
+            "stars": 7611,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -837,8 +837,8 @@
             "id": 106954976,
             "language": null,
             "license": "MIT",
-            "last_commit": "2017-10-14T20:43:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T08:08:52Z",
+            "open_issues": 0,
             "owner": "davidlatwe",
             "repo": "PixarUSD-Sublime",
             "stars": 8,
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:52:13.794Z",
+    "last_updated": "2026-11-02T22:43:33.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
