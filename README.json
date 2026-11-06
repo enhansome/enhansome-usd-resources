@@ -79,7 +79,7 @@
             "open_issues": 28,
             "owner": "kcoley",
             "repo": "gltf2usd",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "arkit2",
               "arquicklook",
@@ -155,11 +155,11 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T19:19:53Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-06T17:05:57Z",
+            "open_issues": 374,
             "owner": "GafferHQ",
             "repo": "gaffer",
-            "stars": 1112,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -176,8 +176,8 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-11-05T19:38:33Z",
-            "open_issues": 354,
+            "last_commit": "2026-11-06T20:22:41Z",
+            "open_issues": 350,
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 915,
@@ -560,10 +560,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T17:04:25Z",
-            "open_issues": 1011,
+            "open_issues": 1012,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7616,
+            "stars": 7618,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:01:40.898Z",
+    "last_updated": "2026-11-06T20:24:15.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
