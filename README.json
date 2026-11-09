@@ -155,8 +155,8 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T06:46:39Z",
-            "open_issues": 376,
+            "last_commit": "2026-11-09T20:43:02Z",
+            "open_issues": 374,
             "owner": "GafferHQ",
             "repo": "gaffer",
             "stars": 1114,
@@ -176,8 +176,8 @@
             "id": 198889624,
             "language": "Wolfram Language",
             "license": null,
-            "last_commit": "2026-11-06T23:00:20Z",
-            "open_issues": 350,
+            "last_commit": "2026-11-09T16:29:56Z",
+            "open_issues": 349,
             "owner": "Autodesk",
             "repo": "maya-usd",
             "stars": 915,
@@ -560,10 +560,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T17:04:25Z",
-            "open_issues": 1018,
+            "open_issues": 1008,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7623,
+            "stars": 7631,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:46:50.090Z",
+    "last_updated": "2026-11-09T23:23:32.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
