@@ -46,7 +46,7 @@
             "open_issues": 3,
             "owner": "ColinKennedy",
             "repo": "USD-Cookbook",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "cpp",
               "python",
@@ -155,11 +155,11 @@
             "id": 9043124,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-14T05:11:50Z",
+            "last_commit": "2026-11-15T01:03:48Z",
             "open_issues": 371,
             "owner": "GafferHQ",
             "repo": "gaffer",
-            "stars": 1114,
+            "stars": 1115,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -180,7 +180,7 @@
             "open_issues": 349,
             "owner": "Autodesk",
             "repo": "maya-usd",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -448,7 +448,7 @@
             "open_issues": 44,
             "owner": "GPUOpen-LibrariesAndSDKs",
             "repo": "RadeonProRenderUSD",
-            "stars": 242,
+            "stars": 241,
             "topics": [
               "ray-tracing",
               "rendering",
@@ -563,7 +563,7 @@
             "open_issues": 1006,
             "owner": "PixarAnimationStudios",
             "repo": "OpenUSD",
-            "stars": 7648,
+            "stars": 7649,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:25.293Z"
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:03:43.926Z",
+    "last_updated": "2026-11-15T19:42:41.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of USD projects and resources",
