@@ -28,7 +28,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Reference
 
-* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 696 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
+* [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) ⭐ 695 | 🐛 3 | 🌐 Mathematica | 📅 2024-08-17 Colin Kennedy's USD code and asset samples
 * [openusd.org](http://openusd.org) The official website
 * [USD Interest Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 * [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
@@ -50,15 +50,15 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,115 | 🐛 374 | 🌐 Python | 📅 2026-11-18 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 917 | 🐛 351 | 🌐 Wolfram Language | 📅 2026-11-18 Autodesk Maya plugin
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,116 | 🐛 374 | 🌐 Python | 📅 2026-11-19 USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+* [Maya](https://github.com/Autodesk/maya-usd) ⭐ 917 | 🐛 355 | 🌐 Wolfram Language | 📅 2026-11-19 Autodesk Maya plugin
 * [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) ⭐ 526 | 🐛 49 | 🌐 C# | 📅 2024-11-25 Full C# bindings to the USD SDK
 * [USD for Unity](https://github.com/unity3d-jp/USDForUnity) ⚠️ Archived USD and Alembic importer/exporter plugin for Unity
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) ⭐ 266 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's plugin (now unified with the Autodesk Maya plugin)
 * [AL\_USDMaya](https://github.com/AnimalLogic/AL_USDMaya/wiki/Asset-Resolution-and-Version-Selection-at-Animal-Logic) ⭐ 266 | 🐛 34 | 🌐 C++ | 📅 2019-11-04 Animal Logic's Asset Resolution system
 * [OpenWalter](https://github.com/rodeofx/OpenWalter) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2019-04-13 Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 * [USD Qt](https://github.com/LumaPictures/usd-qt) ⭐ 173 | 🐛 5 | 🌐 Python | 📅 2023-10-10 Luma Pictures has created some reusable Qt widgets to work with USD
-* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 97 | 🐛 9 | 🌐 C++ | 📅 2026-10-27 Autodesk 3ds Max plugin
+* [3ds Max](https://github.com/Autodesk/3dsmax-usd) ⭐ 97 | 🐛 9 | 🌐 C++ | 📅 2026-11-19 Autodesk 3ds Max plugin
 * [Arnold](https://github.com/LumaPictures/usd-arnold) ⭐ 68 | 🐛 7 | 🌐 C++ | 📅 2020-09-22 Luma Pictures USD bridge for Arnold
 * [SketchUp](https://github.com/drwave/usd-sketchup) ⭐ 66 | 🐛 13 | 🌐 C++ | 📅 2019-08-12 Dr. Wave's USD Sketchup plugin
 * [UsdVol for Katana](https://github.com/UTS-AnimalLogicAcademy/usd-renderman) ⭐ 11 | 🐛 1 | 🌐 CMake | 📅 2025-03-10 UsdVol to Renderman bridge for Katana
@@ -100,7 +100,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 There are a variety of strategies for building USD.
 
-* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,657 | 🐛 1,008 | 🌐 C++ | 📅 2026-11-14 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+* [Official USD repo](https://github.com/PixarAnimationStudios/USD) ⭐ 7,659 | 🐛 1,007 | 🌐 C++ | 📅 2026-11-18 The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 * [USD Build Club](https://github.com/vfxpro99/usd-build-club) ⭐ 232 | 🐛 3 | 🌐 Shell | 📅 2020-05-27 This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 * [Ubuntu scripts](https://github.com/tlorach/USD_build) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2017-05-24
 * [Rez](https://github.com/piratecrew/rez-usd) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2021-02-07
@@ -142,4 +142,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
